@@ -2045,7 +2045,7 @@ body {
   .oneSlide .devices__slider-images {
     min-width: 100%;
     height: 140px;
-    background: url("/assets/images/devices/iphone.png") no-repeat;
+    background: url("assets/images/devices/iphone.png") no-repeat;
     background-size: contain;
     background-position: center;
   }
@@ -2058,7 +2058,7 @@ body {
   .twoSlide .devices__slider-images {
     min-width: 100%;
     height: 140px;
-    background: url("/assets/images/devices/macbook.png") no-repeat;
+    background: url("assets/images/devices/macbook.png") no-repeat;
     background-size: contain;
     background-position: center;
   }
@@ -2071,7 +2071,7 @@ body {
   .threeSlide .devices__slider-images {
     min-width: 100%;
     height: 140px;
-    background: url("/assets/images/devices/tv.png") no-repeat;
+    background: url("assets/images/devices/tv.png") no-repeat;
     background-size: contain;
     background-position: center;
   }
